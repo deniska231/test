@@ -19,3 +19,5 @@ sf::RenderWindow window(sf::VideoMode(800, 600), "Test");
 
 	return 0;
 }
+
+//test
